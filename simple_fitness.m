@@ -1,0 +1,20 @@
+function y = simple_fitness(A)
+a1 = 10;
+a2 = 7;
+a3 = 5;
+T_1 = T_matrix(0, a1, 0, A(1));
+T_2 = T_matrix(0, a2, 0, A(2));
+T_3 = T_matrix(0, a3, 0, A(3));
+T_4 = T_1*T_2*T_3;
+EE = T_4*[0;0;0;1];
+X = EE(1) ;
+Y = EE(2) ;
+Z = A(1) + A(2) + A(3);
+t1 = getGlobalt1;
+t2 = getGlobalt2; 
+t3 = getGlobalt3; 
+x0 = (t1 - X)^2;
+y0 = (t2 - Y)^2;
+z0 = (t3 - Z)^2;
+y = nthroot((x0+y0+z0),2)
+
