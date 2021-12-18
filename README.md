@@ -11,6 +11,6 @@ requires : matlab and peter croke robotics toolbox
 برای اجرای پروژه باید فایل untitled.m را اجرا کرد
 ویدیوی آموزشی برای کار با پروژه در فایل ها موجود است.
 
-مرجع اطلاعات ربات در قرمت پی دی اف : Inverse Kinematic Analysis of Robot Manipulators A THESIS SUBMITTED IN FULFILMENT OF THE REQUIREMENT FOR THE AWARD OF THE DEGREE OF Doctor of Philosophy IN INDUSTRIAL DESIGN BY Panchanand jha (Roll. No. 511ID101) NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA, INDIA July-2015
+مرجع اطلاعات ربات در فرمت پی دی اف : Inverse Kinematic Analysis of Robot Manipulators A THESIS SUBMITTED IN FULFILMENT OF THE REQUIREMENT FOR THE AWARD OF THE DEGREE OF Doctor of Philosophy IN INDUSTRIAL DESIGN BY Panchanand jha (Roll. No. 511ID101) NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA, INDIA July-2015
 
 ابزار مورد نیاز برای اجرا : متلب و ابزار پیتر کروک
