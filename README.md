@@ -2,6 +2,7 @@
 this project have used peter corke robotics toolbox for stimulating a RRR robot.this code has two calculating options in its gui for forward kinematics and inverse kinematics.(calculations : robotics toolbox and (Tmatrix and genetic algorithm)
 the main file to execute is untitled.m
 tutorial video is in the files and you can watch it for more details
+
 robot informations in pdf format -> reference : Inverse Kinematic Analysis of Robot Manipulators A THESIS SUBMITTED IN FULFILMENT OF THE REQUIREMENT FOR THE AWARD OF THE DEGREE OF Doctor of Philosophy IN INDUSTRIAL DESIGN BY Panchanand jha (Roll. No. 511ID101) NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA, INDIA July-2015
 
 requires : matlab and peter croke robotics toolbox
